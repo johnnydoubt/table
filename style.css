@@ -1,4 +1,11 @@
+body {
+  text-align: center;
+}
+
 table {
+  margin: auto;
+  margin-top: 20px;
+  text-align: center;
    border-collapse: collapse;
 }
 
@@ -7,5 +14,13 @@ th, td {
 }
 
 thead {
-  color: red;
+  background-color: black;
+  color: #e2e256;
+}
+
+form {
+  margin: auto;
+  width: 12%;
+  border: 1px solid black;
+  text-align: center;
 }
